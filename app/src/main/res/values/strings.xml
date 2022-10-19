@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChristopherChantres_COMP304Sec005_Lab2_Ex1</string>
+    <string name="apartment">Apartment</string>
+    <string name="detached_home">Detached Home</string>
+    <string name="semi_detached_home">Semi Detached Home</string>
+    <string name="condominium">Condominium</string>
+    <string name="town_house">Town house</string>
+    <string name="check_out">Check Out</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
